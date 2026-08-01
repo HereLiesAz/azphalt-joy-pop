@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Grows each word in proportion to how positive the line is, so the happy parts of a take are literally bigger.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
